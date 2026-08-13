@@ -39,7 +39,7 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "B asketball Club": {
+    "Basketball Club": {
         "description": "Team basketball practice and inter-school competitions",
         "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
